@@ -1,6 +1,9 @@
 h1{
     color: red;
 }
+h2{
+    color: blue;
+}
 .clase{
     padding: 10px;
     background-color: aqua;
